@@ -1,0 +1,28 @@
+{
+  "name": "udemy-playwright-web-automation",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/mauriciofeoli/udemy-playwright-web-automation#readme",
+  "bugs": {
+    "url": "https://github.com/mauriciofeoli/udemy-playwright-web-automation/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mauriciofeoli/udemy-playwright-web-automation.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+"dependencies": {
+
+},
+  "devDependencies": {
+    
+  }
+
+}
